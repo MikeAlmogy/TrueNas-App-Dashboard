@@ -1,1 +1,5 @@
-
+name: Truenas App Dashboard
+categories:
+  - generic
+icon_url: "https://raw.githubusercontent.com/MikeAlmogy/TrueNas-App-Dashboard/main/icons/logo.png" # אופציונלי - קישור לאייקון
+description: "A custom dashboard application for TrueNAS"
